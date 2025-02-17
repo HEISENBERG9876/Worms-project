@@ -11,7 +11,7 @@ A worms-like game created as the final game for my Unity3D course. This version 
 - Procedurally generated map using Perlin noise
 - Destructible terrain
 - 3 different map tiles
-- There's one weapon (bazooka) and a hook to move around the map
+- One weapon (bazooka) and a hook to move around the map
 - Wind system affecting bullet trajectory
 - Mines exploding when a worm gets too close
 
