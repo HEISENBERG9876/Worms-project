@@ -21,7 +21,7 @@ A worms-like game created as the final game for my Unity3D course. This version 
 
 # How to play
 - WASD movement
-- Fire on spacebar
+- Fire weapon on spacebar
 - Jump on enter
 - Switch to unarmed/weapon/hook on E
 
